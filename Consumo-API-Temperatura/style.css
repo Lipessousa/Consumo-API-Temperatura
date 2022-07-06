@@ -1,0 +1,22 @@
+.main{
+    margin-top: 2%;
+    background-image: linear-gradient(to left, rgb(9, 9, 36), rgb(58, 58, 78));
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.corpo {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    border-radius: 40px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.header-img {
+    max-width: 10%;
+}
